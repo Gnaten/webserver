@@ -11,6 +11,7 @@ app.post('/onFor/:millis', (req, res) => {
 
     setTimeout(() => {
         console.log(`cum after ${req.params.millis}`);
+        exec('sudo python gpio/off.py');
     }, req.params.millis);
     res.send(200);
 });
