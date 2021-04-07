@@ -26,6 +26,12 @@ app.post('/off', (req, res) => {
     res.send(200);
 });
 
+app.post('/reset', (req, res) => {
+    exec('sudo python gpio/reset.py');
+    console.log('Pin Reset');   //Need ``?
+    res.send(200);
+})
+
 app.post('brrr', (req, res) => {
     //Process electroncution
 
