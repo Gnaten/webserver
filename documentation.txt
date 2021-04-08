@@ -1,4 +1,4 @@
 In Mingw64:
-    ssh ipv4
+    ssh pi@<ipv4>
     Type in the password
     curl -X POST http://localhost:3000/onFor/5000
