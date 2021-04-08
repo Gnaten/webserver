@@ -1,4 +1,5 @@
-RPi = Websocket server
-PC = Client
+### RPi = Websocket server
+<br>
+### PC = Client
 
-Terminal + PC = RPi.eventHardware
+### _Terminal + PC = RPi.eventHardware_
