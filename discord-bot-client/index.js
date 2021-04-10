@@ -9,7 +9,7 @@ client.once('ready', () => {
     console.log('GnatenAI is Online~');
 });
 
-client.login('ODA3MTQ3MDE3MjI1NzY0OTQ0.YBzwPA.pxxgc8OobRhXwNEhYaHXi-xtk2Y');
+client.login('ummm');
 
 const prefix = "!";                                                                 //Sets what character indicates the start of a command
 client.on('message', message => {    
