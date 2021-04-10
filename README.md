@@ -1,6 +1,6 @@
 _RPi = Websocket server_
 
-_PC = Client_
+_Discord = Client_
 
 <br>
 
