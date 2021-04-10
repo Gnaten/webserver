@@ -4,4 +4,4 @@ _Discord = Client_
 
 <br>
 
-### _Terminal + PC = RPi.eventHardware_
+### _RPi + Discord = RPi.event.hardware_
